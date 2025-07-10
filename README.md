@@ -1,14 +1,18 @@
-### Hello JB
+### Hello this is JB
+I’m a tech explorer, ML enthusiast, space dreamer.
+⚡ Fun fact: Am a designer with good taste
 
-<!--
-**Jaishree-baskaran/Jaishree-baskaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+what and all i do??
+🤔 I’m looking for help with programming..hehe(true)
+-Dive deep into **Machine Learning** and **AI-driven research**
+-Explore **data analysis and visualizations** 
+-Talk about galaxies like they’re my neighbors
 
-- 🔭 I’m currently working on building my passion
-- 🌱 I’m currently learning how to maintain my paitience
-- 👯 I’m looking to collaborate on diffrent fields of computer science
-- 🤔 I’m looking for help with programming
-- 💬 Ask me about my intrests and how am working towards it.1
-- 📫 How to reach me: Jaishreeb21@gmai.com
-                       LinkedIN - https://www.linkedin.com/in/jaishree-b-ab7718235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: Am a designer with good taste
+Anddd...combine all these to give out somthing usefull🔭🌠
+
+what i want to do?
+🌱 I’m currently learning how to maintain my paitience
+- Contribute to open-source AI or astronomy tools  
+- Keep learning (and breaking stuff in the process 😄)  
+- Build something cool enough to be featured in a NASA repo (a girl can dream)
+
