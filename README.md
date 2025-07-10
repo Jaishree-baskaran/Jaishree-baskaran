@@ -13,6 +13,6 @@ Anddd...combine all these to give out somthing usefull🔭🌠
 ## what i want to do?
 🌱 I’m currently learning how to maintain my paitience...IG(also true)
 - Contribute to open-source AI or astronomy tools  
-- Keep learning cool stuffs (cool stuffs..true, others...not true) 
+- Keep learning (cool stuffs..true, others...not true) 
 - Build something cool enough to be featured in a NASA repo (a girl can dream)
 
