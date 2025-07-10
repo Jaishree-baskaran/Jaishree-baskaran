@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaishree-baskaran&label=VISITORS&color=0e75b6&style=flat-square" alt="visitors"/>
-  <img src="https://img.shields.io/badge/Role-AI/ML%20Intern-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dream-NASA%20Collab-0d1117?style=flat-square&logo=nasa" />
-  <img src="https://img.shields.io/badge/Mood-Dark--Mode-black?style=flat-square" />
-</p>
-
 ### Hello this is JB
 I’m a tech explorer, ML enthusiast, space dreamer.
 ⚡ Fun fact: Am a designer with good taste
